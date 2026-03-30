@@ -149,12 +149,4 @@ If this project helped you, **give it a star** ⭐ — it helps others find it t
 ---
 
 > Made with ❤️ for Python beginners everywhere.
-```
-
----
-
-## 🏷️ GitHub Topics to Add (boosts search ranking a lot)
-
-After creating the repo, go to the repo page → click the ⚙️ gear next to **About** → add these topics:
-```
-python background-removal rembg pillow image-processing tkinter gui cli beginner-friendly python-beginner remove-background batch-processing open-source
+'''
