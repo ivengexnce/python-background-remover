@@ -133,7 +133,9 @@ If you're a beginner and want to contribute your first PR, this is a great proje
 ## 📞 Contact — Meet Maru
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-meetmaru149-blue?logo=linkedin)](https://www.linkedin.com/in/meetmaru149)
+
 [![GitHub](https://img.shields.io/badge/GitHub-ivengexnce-black?logo=github)](https://www.github.com/ivengexnce)
+
 [![Instagram](https://img.shields.io/badge/Instagram-ivengexnce-E4405F?logo=instagram)](https://www.instagram.com/ivengexnce)
 
 📧 meetmaru149@gmail.com
